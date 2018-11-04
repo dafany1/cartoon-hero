@@ -1,0 +1,15 @@
+body{background-color: grey;
+
+}
+<style type="text/css">
+		h1{
+			color:indigo;
+		}
+		h2{
+			color:pink; text-decoration: underline;
+		}
+		.littleboy{
+			font-size: 25px;
+			color: lightblue
+		}
+	</style>
