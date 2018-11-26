@@ -1,17 +1,15 @@
 html, body{
-	font-family: Calibri;
+	font-family: kabal;
 	margin: 0;
 }
 
-
-
 header{
-	background-color: #ff8533;
+	background-color: orange;
+	background-image: url('../img/fortheback.jpg');
     padding: 40px;
     text-align: center;
 }
 h1{
-	font-family: arial; 
 	font-size: 90px;
 	color: white;
 }
@@ -59,7 +57,3 @@ footer ul li{
 	display: inline-block;
 	margin: 0 5px;
 }
-/*<header>
-		<img src="img/profile.jpg">
-		<h1>Bloom From Winx</h1>
-	</header>*/
